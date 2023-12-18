@@ -10,6 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
+        <hr/>
     </head>
     <body>
         <h1>客戶查詢系統</h1>
