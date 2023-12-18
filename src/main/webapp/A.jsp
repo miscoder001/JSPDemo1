@@ -1,6 +1,6 @@
 <%-- 
-    Document   : error
-    Created on : 2023年12月14日, 下午4:02:16
+    Document   : A
+    Created on : 2023年12月14日, 下午3:40:33
     Author     : student
 --%>
 
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>在此處設計標準的企業錯誤通知頁面</h1>
-        <h2> 404-3 </h2>
+        <h1>客戶查詢系統</h1>
     </body>
 </html>

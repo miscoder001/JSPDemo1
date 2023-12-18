@@ -1,6 +1,6 @@
 <%-- 
-    Document   : error
-    Created on : 2023年12月14日, 下午4:02:16
+    Document   : result
+    Created on : 2023年12月14日, 下午2:45:53
     Author     : student
 --%>
 
@@ -12,7 +12,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>在此處設計標準的企業錯誤通知頁面</h1>
-        <h2> 404-3 </h2>
+        <h1>查詢結果</h1>
+        使用者欲查詢的字串:  <%= request.getParameter("p1") %> <br/>
+        電子郵件: <%= request.getParameter("email") %>
+                
+                
     </body>
 </html>
